@@ -16,5 +16,5 @@ Database schema:
 🌟Workflow and output: Utilised different SQL features like CTEs, window functions and aggregation to find answers to stakeholders' queries and presented them in PowerPoint.
 
 Preview of solution code:
-![image alt](https://github.com/Adityya55/Adhoc-Insights/blob/5736160f870989285c91a60448a35412cbfff20a/Database_schema.jpg)
+![image alt](https://github.com/Adityya55/Adhoc-Insights/blob/e18bbfae2081e5c94527cd73adfba2bef814dfac/10th%20request.jpg)
 
