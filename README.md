@@ -11,9 +11,9 @@ fact_pre_invoice_deductions: contains pre-invoice deductions information for eac
 fact_sales_monthly: contains monthly sales data for each product.
 
 Database schema:
-![Alt text](relative/path/to/image "Database_schema.JPG")
+![Alt text](Database_schema.JPG)
 
 🌟Workflow and output: Utilised different SQL features like CTEs, window functions and aggregation to find answers to stakeholders' queries and presented them in PowerPoint.
 
 Preview of solution code:
-![Alt text](relative/path/to/image "10th request.JPG")
+![Alt text](10th request.JPG)
